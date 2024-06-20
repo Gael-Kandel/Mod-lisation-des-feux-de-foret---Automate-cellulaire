@@ -14,3 +14,9 @@ Le fichier texte produit est alors lu sous Python (en environ 3h), et je peux al
 
 Le processus résumé : Carte coloriée -> png_vers_txt.py -> TDB avec vent.c -> plot.py
 
+![image](https://github.com/Gael-Kandel/Mod-lisation-des-feux-de-foret---Automate-cellulaire/assets/104364286/f9246564-0c51-4688-9266-7806ce807655)
+![image](https://github.com/Gael-Kandel/Mod-lisation-des-feux-de-foret---Automate-cellulaire/assets/104364286/6232b8e0-7bdc-4567-966e-94414554d86d)
+![image](https://github.com/Gael-Kandel/Mod-lisation-des-feux-de-foret---Automate-cellulaire/assets/104364286/32913260-43c5-47d4-9b1e-7802587df01f)
+![image](https://github.com/Gael-Kandel/Mod-lisation-des-feux-de-foret---Automate-cellulaire/assets/104364286/4d9494d8-e615-4928-baad-79cb88445518)
+
+
